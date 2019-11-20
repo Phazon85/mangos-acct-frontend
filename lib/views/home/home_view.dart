@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
-import 'package:mangos-acct-frontend/widgets/centered_view/centered_view.dart';
-import 'package:mangos-acct-frontend/widgets/course_details/course_details.dart';
-import 'package:mangos-acct-frontend/widgets/call_to_action/call_to_action.dart';
-import 'package:mangos-acct-frontend/widgets/NavigationBar/navigation_bar.dart';
+import 'package:mangosacctfrontend/widgets/centered_view/centered_view.dart';
+import 'package:mangosacctfrontend/widgets/course_details/course_details.dart';
+import 'package:mangosacctfrontend/widgets/call_to_action/call_to_action.dart';
+import 'package:mangosacctfrontend/widgets/NavigationBar/navigation_bar.dart';
 
 
 class HomeView extends StatelessWidget {
